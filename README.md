@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Mock Test Generator CLI
+# 🧠 VeritasEngine (AI-Powered Mock Test Generator CLI)
 
 A command-line utility designed to transform any subject or uploaded material into structured, high-quality Multiple Choice Questions (MCQs) for effective mock test preparation.
 
